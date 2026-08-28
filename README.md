@@ -1,4 +1,4 @@
-> "I Have no job, no wife, no kids and no plan." 
+> "I have no job, no wife, no kids and no plan." 
 >
 > [\- CycleCruza (2026)](https://www.youtube.com/watch?v=uOF1ieP8VUs&t=2s)
 
@@ -304,6 +304,8 @@ Local main
 ```
 
 If you always know **where your latest changes currently live**, Git becomes straightforward.
+
+
 
 
 _Did we use switch at some point and if yes what was that, anything extra? Is this only for solo development?_
